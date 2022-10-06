@@ -15,3 +15,14 @@
     - python3 -m twine upload --repository-url https://test.pypi.org/legacy dist/* (Faz o upload de teste para test pypi)
     - python3 -m twine upload --repository-url https://upload.pypi.org/legacy dist/* (Faz o upload da versão final para o pypi)
 
+# projeto-covid
+  Projeto criado durante o acompanhamento do Lab "
+  Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil"
+
+  ## Bibliotecas estudadas no Lab:
+    - Pandas
+    - Plotly
+    - Matplotlib
+    - Arima
+    - Fbprophet
+    
