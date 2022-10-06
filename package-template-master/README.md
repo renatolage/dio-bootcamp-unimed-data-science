@@ -26,7 +26,7 @@ valida_cpf.validacpf()
 ```
 
 ## Author
-My_name
+Renato Lage
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
