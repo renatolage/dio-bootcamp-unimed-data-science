@@ -1,11 +1,11 @@
-# dio-bootcamp-unimed-data-science
-Repositório referente aos projetos realizados durante o bootcamp Geração Unimed BH - Data Science
+# Desafios Bootcamp Unimed - Data Science
+  Repositório referente aos projetos realizados durante o bootcamp Geração Unimed BH - Data Science
 
 # package-template-master
-Projeto criado para o desafio "Descomplicando a criação de pacotes
-  - Foi usado um projeto que criei durante minhas primeiras aulas em python, onde o app basicamente gera 
-    um número aleatório de cpf através da função geracpf() e através da função validacpf, o app recebe um número de cpf
-    e verifica se esse número é válido.
+    Projeto criado para o desafio "Descomplicando a criação de pacotes
+      - Foi usado um projeto que criei durante minhas primeiras aulas em python, onde o app basicamente gera 
+        um número aleatório de cpf através da função geracpf() e através da função validacpf, o app recebe um número de cpf
+        e verifica se esse número é válido.
     
     ## Comando Aprendidos durante o desafio:
       - python3 -m pip install --upgrade pip (Atualiza o pip)
